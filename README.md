@@ -9,7 +9,7 @@
 
 ## Steps
 
-- Data Modeling
+- #### Data Modeling
 Inspected the CSV files and sketch out an ERD (Entity Relationship Diagram) of the tables using a tool - http://www.quickdatabasediagrams.com
 
 - Data Engineering
