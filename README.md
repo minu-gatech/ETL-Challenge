@@ -1,7 +1,7 @@
 # ETL Challenge - The Employees Database
 
 
-## Objective: 
+## Objective
 
 - The goal is to design tables to hold the data, import the employees data from numerous CSV files into the tables in SQL database, and execute queries/perform analysis to answer questions about the data and find meaningful information. 
 - Follow ETL process to extract, transform and load the data into the database.
