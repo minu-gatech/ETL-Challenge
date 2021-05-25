@@ -12,11 +12,11 @@
 - #### Data Modeling
 Inspected the CSV files and sketch out an ERD (Entity Relationship Diagram) of the tables using a tool - http://www.quickdatabasediagrams.com
 
-- Data Engineering
+- #### Data Engineering
 Used the information to create a table schema for each of the CSV files and created data types, primary keys, foreign keys, and other constraints.
 Imported each CSV file into the corresponding SQL table. 
 
-- Data Analysis
+- #### Data Analysis
 Succesfully executed numerous SQL queries to perform analysis on data
 
  
